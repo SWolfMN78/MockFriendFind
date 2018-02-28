@@ -17,13 +17,13 @@ var friends = [{
         scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
-        name: "Fey Dancer",
-        photo: "https://drachenmagier.deviantart.com/art/dancer-729829869",
+        name: "Frost Wolf",
+        photo: "https://sjwolf.deviantart.com/art/North-Wolf-3800402",
         scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
-        name: "Fey Dancer",
-        photo: "https://drachenmagier.deviantart.com/art/dancer-729829869",
+        name: "Goku",
+        photo: "https://vignette.wikia.nocookie.net/epicrapbattlesofhistory/images/4/4d/Goku_by_spongeboss-d35orzj.png/revision/latest?cb=20140210225834",
         scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
 ]
